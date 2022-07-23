@@ -28,7 +28,7 @@ Will update once finished.
 ### What I Have Learned <a name="learnings" />
 This was a very educational experience which helped me familiarize myself with connecting a front-end and back-end. This was specifically helpful for learning 
 how to use Express and getting comfortable with sending and handling HTTP requests, as well as converting data to and from JSON for use in a database and in the site
-itself.
+itself. Moreover, this gave me a basic overview of hosting a site and using an ssh to create a non-relational database on a server.
 
 ### Inspiration
 This project would not have been possible without the resources available on LinkedIn. In particular Shaun Wassel's "React: Creating and Hosting a Full-Stack Site".
