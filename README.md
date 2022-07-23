@@ -4,16 +4,16 @@ course in the "Inspiration" section). Its a simple blog with the lorem ipsum pro
 
 ## Technologies
 ### Front-End
-React v18.2.0
-Whatwg-fetch v3.6.2 (for compatibility with Internet Explorer)
+- React v18.2.0
+- Whatwg-fetch v3.6.2 (for compatibility with Internet Explorer)
 
 ### Back-End
-Express v4.18.1
-MongoDB v4.8.0
+- Node.js v16.15.1
+- Express v4.18.1
+- MongoDB v4.8.0
 
 ## General Info
 * [Project Status](#status)
-* [How It Works](#How-It-Works) 
 * [Future Plans](#plans)
 * [What I Have Learned](#learnings)
 * [Inspiration](#inspire)
@@ -30,7 +30,7 @@ This was a very educational experience which helped me familiarize myself with c
 how to use Express and getting comfortable with sending and handling HTTP requests, as well as converting data to and from JSON for use in a database and in the site
 itself. Moreover, this gave me a basic overview of hosting a site and using an ssh to create a non-relational database on a server.
 
-### Inspiration
+### Inspiration <a name="inspire" />
 This project would not have been possible without the resources available on LinkedIn. In particular Shaun Wassel's "React: Creating and Hosting a Full-Stack Site".
 The following <a href="https://www.linkedin.com/learning-login/
 share?account=56684793&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%
