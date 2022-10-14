@@ -20,10 +20,10 @@ course in the "Inspiration" section). Its a simple blog with the lorem ipsum pro
 * [Thank You](#thanks)
 
 ### Project Status <a name="status" />
-Will update once finished
+This project is in no way production worthy, however, I have finished the course and will likely shelve this project for a while.
 
 ### Future Plans <a name="plans" />
-Will update once finished.
+No real plan for this project. Will likely use what I've learned on a new project.
 
 ### What I Have Learned <a name="learnings" />
 This was a very educational experience which helped me familiarize myself with connecting a front-end and back-end. This was specifically helpful for learning 
